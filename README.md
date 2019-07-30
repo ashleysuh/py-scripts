@@ -1,2 +1,2 @@
 # py-scripts
-some very specific python scripts that help me convert data files to graphs
+very specific python scripts to help convert various data files to graphs
